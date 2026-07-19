@@ -1,0 +1,241 @@
+# 00. Philosophy
+
+> "Build products that matter. Learn only what the product demands. Leave behind evidence, not certificates."
+
+---
+
+# Why Product Designer OS Exists
+
+Most design education optimizes for completing courses.
+
+Product Designer OS optimizes for becoming a world-class product designer through deliberate practice on real product problems.
+
+The output is not knowledge.
+
+The output is evidence.
+
+---
+
+# The North Star
+
+Become a product designer capable of identifying meaningful problems, designing thoughtful solutions, collaborating effectively, and creating measurable impact.
+
+The goal is not to become a better Figma user.
+
+The goal is to become someone companies trust to solve important product problems.
+
+---
+
+# The Outcome
+
+By completing this curriculum, you should have:
+
+- 3–4 world-class product case studies
+- A portfolio that demonstrates product thinking
+- A strong understanding of the end-to-end product design process
+- Confidence in interviews
+- The ability to contribute to high-performing product teams from day one
+
+---
+
+# What This Is Not
+
+This is not:
+
+- A UI design course
+- A Figma course
+- A bootcamp
+- A collection of redesigns
+- A certificate program
+
+Those are inputs.
+
+This is an operating system.
+
+---
+
+# Core Principles
+
+## 1. Problems Before Solutions
+
+Never design a screen before understanding the problem.
+
+Every design decision should answer:
+
+> Why does this deserve to exist?
+
+---
+
+## 2. Evidence Over Assumptions
+
+Every important claim should be supported by evidence.
+
+Evidence can include:
+
+- User interviews
+- User feedback
+- Product reviews
+- Analytics
+- Competitive analysis
+- Industry research
+- Behavioral science
+
+If there is no evidence, explicitly state assumptions.
+
+---
+
+## 3. Product Thinking Before UI
+
+Beautiful interfaces rarely fix broken products.
+
+Understand:
+
+- Users
+- Business
+- Technology
+- Constraints
+
+Then design.
+
+---
+
+## 4. Learn Just In Time
+
+Do not study topics in isolation.
+
+Learn only what the current project requires.
+
+Pull knowledge when needed.
+
+Avoid collecting information "just in case."
+
+---
+
+## 5. Build Real Things
+
+Projects should improve existing products with real users, real business models, and real constraints.
+
+Avoid fictional startups.
+
+Avoid hypothetical personas whenever possible.
+
+---
+
+## 6. Optimize for Learning Density
+
+Choose projects that teach multiple skills simultaneously.
+
+A single project should improve:
+
+- Research
+- Product strategy
+- UX
+- Interaction design
+- Visual design
+- Communication
+- Systems thinking
+
+---
+
+## 7. Design With Constraints
+
+Constraints are part of the design.
+
+Consider:
+
+- Business goals
+- Engineering effort
+- Time
+- Accessibility
+- Privacy
+- Trust
+- AI limitations
+
+---
+
+## 8. Think in Systems
+
+Every interface belongs to a larger system.
+
+Understand:
+
+- User journey
+- Product ecosystem
+- Team workflows
+- Business model
+- Long-term consequences
+
+Avoid solving isolated screens.
+
+---
+
+## 9. Communicate Clearly
+
+Design is communication.
+
+Great designers explain:
+
+- The problem
+- Their reasoning
+- Trade-offs
+- Risks
+- Success metrics
+
+Every case study should tell a coherent story.
+
+---
+
+## 10. Quality Over Quantity
+
+One exceptional case study is worth more than ten average redesigns.
+
+Never ship work that exists only to fill a portfolio.
+
+---
+
+# How Great Product Teams Work
+
+This curriculum follows the same high-level workflow used by leading product companies.
+
+1. Understand the problem
+2. Gather evidence
+3. Define success
+4. Explore solutions
+5. Prototype
+6. Test
+7. Iterate
+8. Measure outcomes
+9. Communicate decisions
+
+The process is iterative, not linear.
+
+---
+
+# What Success Looks Like
+
+At the end of every project, ask:
+
+- Did I solve the right problem?
+- Is the solution supported by evidence?
+- Can I explain every decision?
+- What trade-offs did I make?
+- What would I validate next?
+- Would I confidently present this to a hiring manager?
+
+If the answer to any of these is "no," the project is not finished.
+
+---
+
+# The Standard
+
+The benchmark is not other portfolios.
+
+The benchmark is the quality of thinking demonstrated by the best product designers at companies like Figma, Linear, Notion, GitHub, Stripe, CRED, and Ultraviolette.
+
+Study their products.
+
+Study their decisions.
+
+Develop your own judgment.
+
+That is the purpose of Product Designer OS.
